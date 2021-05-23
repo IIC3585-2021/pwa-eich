@@ -1,5 +1,5 @@
-# javascript-pwa
-Progressive Web App on plain javascript
+# WhatsOffline!
+Progressive Web App on plain javascript check it on pwaeich.surge.sh
 
 ## How to run
 
